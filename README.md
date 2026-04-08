@@ -12,6 +12,7 @@ Verifying pricing and avoiding hidden charges
 Storing luggage during vacations
 Identifying safe accommodation, especially for female students
 
+
 Solution
 SafeStay provides a centralized platform where students can:
 View and add housing listings
@@ -20,11 +21,13 @@ Read and write reviews
 Report suspicious listings
 Check trust scores and verification status
 
+
 Features
 Housing Listings
 Add and view PGs near VIT Bhopal
 Includes rent, distance, rating, and safety info
 “Safe for Women” indicator
+
 
 Luggage Storage
 Find storage spaces near campus
@@ -33,9 +36,11 @@ Review System
 Users can submit reviews for listings
 Helps others make better decisions
 
+
 Reporting System
 Flag suspicious or misleading listings
 Improves transparency
+
 
 Trust & Verification System
 Each listing has a trust score
@@ -50,6 +55,7 @@ HTML – Structure
 CSS – Styling and layout
 JavaScript – Functionality and dynamic updates
 
+
 How It Works
 Data is stored in JavaScript arrays (client-side)
 Listings are dynamically rendered using DOM manipulation
@@ -57,12 +63,14 @@ Trust score is calculated based on rating and system logic
 Verification ensures pricing consistency
 Reports and reviews improve system reliability
 
+
 Future Scope
 Backend integration (Firebase / Python Flask)
 Real user authentication
 AI-based fake review detection
 Location-based filtering using maps
 Real verification of listings
+
 
 Target Area
 This platform is specifically designed for:
